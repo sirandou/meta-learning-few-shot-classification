@@ -1,4 +1,4 @@
-# ML-project
+# ML-course project
 
 Meta learning for few-shot learning task, using resnet18
 
