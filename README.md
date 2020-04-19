@@ -1,6 +1,6 @@
 # ML-course project
 
-Meta learning for few-shot learning task, using resnet18
+Meta learning for few-shot learning task, using ResNet-18
 
 based on https://github.com/floodsung/LearningToCompare_FSL
 
