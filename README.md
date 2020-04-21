@@ -8,4 +8,4 @@ Download images for mini-image-net from: https://drive.google.com/file/d/0B3Irx3
 
 Put all the files in your Google drive under the directory 'ML project'.
 
-You can run both notebooks step by step to see how both models (baseline and ResNet-18 feature extraction) perform. Enjoy!
+You can run both notebooks step by step to see how both models (baseline and ResNet-18 feature extraction) perform. For evaluation, the trained networks are saved in the models directory. Enjoy!
